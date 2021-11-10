@@ -17,10 +17,10 @@
   <drawarea x="23.218653112649918" y="-136.63734525504196" scale="0.75"/>
   <images/>
   <nodes>
-    <node id="1" posx="548.50095137953758" posy="320.41632169547165" maxwidth="200" width="168" height="49" side="right" fold="false" treesize="49" layout="Horizontal">
+    <node id="1" posx="541.02162195245432" posy="290.23850594026334" maxwidth="200" width="206" height="70" side="right" fold="false" treesize="70" layout="Horizontal">
       <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
       <formatting/>
-      <nodename>Descri&#xE7;&#xE3;o do Estudo</nodename>
+      <nodename>Descri&#xE7;&#xE3;o da Tecnologia a ser Desenvolvida</nodename>
       <nodenote></nodenote>
     </node>
     <node id="3" posx="548.07856775323557" posy="382.2125253087529" maxwidth="295.771240234375" width="320" height="49" side="right" fold="false" treesize="49" layout="Horizontal">
@@ -67,7 +67,7 @@
     </node>
   </nodes>
   <connections>
-    <connection from_id="5" to_id="1" drag_x="479.25974874198437" drag_y="347.94345532792283">
+    <connection from_id="5" to_id="1" drag_x="475.52008402844274" drag_y="332.85454745031871">
       <style connectiondash="solid" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
       <title></title>
       <note></note>
